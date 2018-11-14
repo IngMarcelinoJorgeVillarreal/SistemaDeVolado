@@ -1,0 +1,9 @@
+El sistema de volado es un sistema simulando se tiene cierta cantidad de dinero y se requiere llegar a cierta meta como cantidad de dinero.
+El volado funciona mediante la creacion de numeros rectangulares aleatorios y es ahi donde se determina si se gana o no el volado.
+Hay 2 formas de salir en el volado, una es llegando a la meta y otra a la quiebra.
+
+El sistema maneja 2 formas de hacer las corridas:
+1-Por numero de corridas que deses hacer
+2-Por numero rectangulares que deses crear
+
+para saber como se juega, en el mismo ejecutable vienen las intrucciones a seguir para jugar, o bien puedes leer el codigo del programa.
