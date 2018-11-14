@@ -6,5 +6,6 @@ Este programa fue elaborado para tarea escolar de la materia modelado y simulaci
 El programa fue elaborado en lenguaje Perl y convertido a .exe para su ejecucion en cualquier computadora.
 
 ****** COMO EJECUTAR EL PROGRAMA **********
+
 1-Descarga el archivo .exe
 2-Ejecutalo haciendo doble click en el.
